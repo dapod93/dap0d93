@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dapod93
-- 👀 I’m interested in reading manga.
+<!-- - 👀 I’m interested in reading manga. -->
 - 🌱 I’m currently learning React-Native
 - 📫 How to reach me davidliois93@konvergen.ai
 
