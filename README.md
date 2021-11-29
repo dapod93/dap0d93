@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dapod93
-<!-- - 👀 I’m interested in reading manga. -->
 - 🌱 I’m currently learning React-Native
 - 📫 How to reach me davidliois93@konvergen.ai
+<!-- - 👀 I’m interested in reading manga. -->
 
 <!---
 dapod93/dapod93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
