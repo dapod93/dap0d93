@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dapod93
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me davidliois50@gmail.com
 <!-- - 👀 I’m interested in reading manga. -->
 
