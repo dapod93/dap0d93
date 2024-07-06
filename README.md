@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dap0d93
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me davidliois50@gmail.com
 <!-- - 👀 I’m interested in reading manga. -->
 
